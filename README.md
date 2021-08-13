@@ -1,9 +1,8 @@
-### Hi there, i'm [Dimas](https://dimas-maryanto.com) 👋
+### Hi there 👋
 
 <br />
-<br />
 
-Hi, I'm Dimas Maryanto, a passionate self-taught Backend developer from Indonesia.
+Hi, I'm [Dimas Maryanto](https://www.dimas-maryanto.com), a passionate self-taught Backend developer from Indonesia.
 
 - 🔭 I’m currently working on PT. Tabeldata Informatika as a Senior Software Engineer and Research and Development (RnD)
 - 🌱 I’m currently learning some DevOps tools and languages
