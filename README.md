@@ -10,7 +10,7 @@ I'm [Dimas Maryanto](https://www.dimas-maryanto.com), a passionate self-taught B
 
 ### Languages and Tools
 
-This is list of technologies are currently using for Development our projects
+This is list of technologies are currently using for Development our projects and products
 
 - DevOps Tools
 
