@@ -8,7 +8,9 @@ I'm [Dimas Maryanto](https://www.dimas-maryanto.com), a passionate self-taught B
 - 🌱 I’m currently learning some DevOps tools and languages
 - 💬 Ask me about ...
 
-**Languages and Tools:**
+### Languages and Tools
+
+This is list of technologies are currently using for Development our projects
 
 - DevOps Tools
 
