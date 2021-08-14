@@ -10,11 +10,17 @@ I'm [Dimas Maryanto](https://www.dimas-maryanto.com), a passionate self-taught B
 
 **Languages and Tools:**
 
+- DevOps Tools
+
+<code><img height="20" src="https://youtube.dimas-maryanto.com/resources/images/docker.png"></code>
+<code><img height="20" src="https://youtube.dimas-maryanto.com/resources/images/k8s.png"></code>
+<code><img height="20" src="https://youtube.dimas-maryanto.com/resources/images/k8s-openshift.png"></code>
+<code><img height="20" src="https://youtube.dimas-maryanto.com/resources/images/gitlab-ci-cd.png"></code>
+
 - Backend Technologies
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
+<code><img height="20" src="https://youtube.dimas-maryanto.com/resources/images/java-core.png"></code>
+<code><img height="20" src="https://youtube.dimas-maryanto.com/resources/images/spring-core.png"></code>
 
 - Frontend Technologies
 
