@@ -12,24 +12,24 @@ I'm [Dimas Maryanto](https://www.dimas-maryanto.com), a passionate self-taught B
 
 - DevOps Tools
 
-<code><img height="20" src="https://youtube.dimas-maryanto.com/resources/images/docker.png"></code>
-<code><img height="20" src="https://youtube.dimas-maryanto.com/resources/images/k8s.png"></code>
-<code><img height="20" src="https://youtube.dimas-maryanto.com/resources/images/k8s-openshift.png"></code>
-<code><img height="20" src="https://youtube.dimas-maryanto.com/resources/images/gitlab-ci-cd.png"></code>
+<code><img height="42" src="https://youtube.dimas-maryanto.com/resources/images/docker.png"></code>
+<code><img height="42" src="https://youtube.dimas-maryanto.com/resources/images/k8s.png"></code>
+<code><img height="42" src="https://youtube.dimas-maryanto.com/resources/images/k8s-openshift.png"></code>
+<code><img height="42" src="https://youtube.dimas-maryanto.com/resources/images/gitlab-ci-cd.png"></code>
 
 - Backend Technologies
 
-<code><img height="20" src="https://youtube.dimas-maryanto.com/resources/images/java-core.png"></code>
-<code><img height="20" src="https://youtube.dimas-maryanto.com/resources/images/spring-core.png"></code>
+<code><img height="42" src="https://youtube.dimas-maryanto.com/resources/images/java-core.png"></code>
+<code><img height="42" src="https://youtube.dimas-maryanto.com/resources/images/spring-core.png"></code>
 
 - Frontend Technologies
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 
 - Database Technologies
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 
