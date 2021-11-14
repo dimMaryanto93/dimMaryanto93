@@ -25,6 +25,7 @@ This is list of technologies are currently using for Development our projects an
 <code><img height="42" src="https://youtube.dimas-maryanto.com/resources/images/k8s.png"></code>
 <code><img height="42" src="https://youtube.dimas-maryanto.com/resources/images/k8s-openshift.png"></code>
 <code><img height="42" src="https://youtube.dimas-maryanto.com/resources/images/gitlab-ci-cd.png"></code>
+<code><img height="42" src="https://youtube.dimas-maryanto.com/resources/images/ansible.png"></code>
 
 - Backend Technologies
 
