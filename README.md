@@ -16,6 +16,18 @@ I'm a passionate self-taught Backend developer from Indonesia.
 }
 ```
 
+## My activity
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@dimMaryanto93/13afc5ac-af96-4adb-929d-c7bcf1c184ea.png" /></a>
+
+## Machine i'm use everydays
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@dimMaryanto93/40413bd5-8317-40fa-bc71-c86807b38235.png" /></a>
+
+## Editor i'm use everydays
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@dimMaryanto93/810fbf50-0387-4bb8-905e-e9ccece6f4e1.png" /></a>
+
 💬 Ask me about
   - Linkedin: [in/dimMaryanto93](https://www.linkedin.com/in/dimmaryanto93/)
   - Instagram: [@dimMaryanto93](https://www.instagram.com/dimmaryanto93/)
