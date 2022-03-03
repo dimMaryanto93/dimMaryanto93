@@ -6,15 +6,13 @@ I'm [Dimas Maryanto](https://www.dimas-maryanto.com), a passionate self-taught B
 
 ```json
 {
-  "personal": {
-    "name": "Dimas Maryanto",
-    "message" : "🌱 I’m currently learning some DevOps tools and Backend Technologies"
-    "🔭 I’m currently working on" : [
-      { "title": "DevOps Engineer | Research and Development", "company" : "PT. Tabeldata Informatika", "since" : "2016-06-25" }, 
-      { "title": "Instructor", "company" : "Udemy", "since" : "2021-01-02" },
-      { "title": "DevOps Engineer", "company" : "PT. Inti Konten Indonesia (INTENS)", "since" : "2021-05-20" }
-    ]
-  }
+  "name": "Dimas Maryanto",
+  "message" : "🌱 I’m currently learning some DevOps tools and Backend Technologies"
+  "🔭 I’m currently working on" : [
+    { "title": "DevOps Engineer | Research and Development", "company" : "PT. Tabeldata Informatika", "since" : "2016-06-25" }, 
+    { "title": "Instructor", "company" : "Udemy", "since" : "2021-01-02" },
+    { "title": "DevOps Engineer", "company" : "PT. Inti Konten Indonesia (INTENS)", "since" : "2021-05-20" }
+  ]  
 }
 ```
 
