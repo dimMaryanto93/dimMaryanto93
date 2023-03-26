@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a passionate self-taught Backend developer from Indonesia.
+I'm a passionate self-taught Backend developer and DevOps from Indonesia.
 
 ```json
 {
