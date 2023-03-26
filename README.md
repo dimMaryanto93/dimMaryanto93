@@ -28,6 +28,7 @@ Berikut adalah beberapa pengalaman peribadi saya:
 | title           | when                        | company                   | client            | project name      | job desk |
 | :---            | :---                        | :---                      | :---              | :---              | :---     |
 | Lead DevOps     | Januari 2023 s/d sekarang   | PT. Tabeldata Informatika | Telkom Collega    | Digital Bank      | Memberikan solusi cloudnative kepada team collega, memberikan training dan coaching |
+| Udemy Instructur | Januari 2021 s/d sekarang  | - | -  | - | Membuat kelas online terkait DevOps, Database Administrator, Programming serta BigData |
 | Coaching bootcamp | November 2022 s/d sekarang | PT. Tabeldata Informatika | BNI Corporate Univercity | Bootcamp | Mentoring peserta bootcamp selama maggang di BNI |
 | DevOps Engineer | November 2021 s/d sekarang  | PT. Tabeldata Informatika | BPD DKI Jakarta   | SIPD DKI Jakarta  | membangun dan mendesign flow ci/cd pipeline  dengan gitlab, kubernetes, docker, gitlab ci, Nutanix |
 | DevOps Engineer | Juni 2022 s/d Maret 2022    | PT. Tabeldata Informatika | Kementrian Komunikasi dan Informatika (kemenkominfo) | lapor.go.id | Memigrasikan infrastruktur dari Kantor Staf Presiden (KSP) ke PDN dan transisi ke cloudnative apps | 
